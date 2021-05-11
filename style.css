@@ -1,0 +1,26 @@
+body{
+  background: #d7d7d8;
+}
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+#table-1 th, td{
+  border: 1px solid black;
+  padding: 15px;
+  text-align: center;
+  font-family: 'Roboto Mono';
+}
+
+.oranzine {
+  background: orange;
+  color: white;
+}
+.melyna {
+  background: blue;
+  color: white;
+}
+.zalia {
+  background: green;
+  color: white;
+}
